@@ -1,0 +1,9 @@
+[submodule "order"]
+	path = order
+	url = https://github.com/kvii/order.git
+[submodule "user"]
+	path = user
+	url = https://github.com/kvii/user.git
+[submodule "pkg"]
+	path = pkg
+	url = https://github.com/kvii/pkg.git
